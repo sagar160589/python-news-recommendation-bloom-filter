@@ -1,0 +1,4 @@
+MarkupSafe==2.1.2
+requests==2.31.0
+beautifulsoup4==4.12.2
+redis==5.0.0b4
